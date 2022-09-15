@@ -51,7 +51,7 @@ elif choice == "Texto_Markdown":
     )
     
 elif choice == "Inserir_Figura":
-    st.image(image01, width=500, caption='Logo') 
+    st.image(image01, width=500) 
   # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Sobre a Empresa")
   # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
