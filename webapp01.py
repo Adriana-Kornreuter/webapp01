@@ -48,7 +48,7 @@ st.sidebar.write("Texto Side Bar")
     #Dia 1 de 2 | ?h | ? a ?
    # Dia 2 de 2 | ?h | ? a ?
    # """
-    )
+   # )
     
 elif choice == "Inserir_Figura":
     st.image(image01, width=500) 
