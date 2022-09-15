@@ -50,5 +50,8 @@ elif choice == "Texto_Markdown":
     Dia 2 de 2 | ?h | ? a ?
     """
     )
+    
+    elif choice == "Inserir_Figura":
+    st.image(image01, width=400, caption='Logo') 
 
     
