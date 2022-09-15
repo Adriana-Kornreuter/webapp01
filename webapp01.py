@@ -7,7 +7,7 @@ image01 = Image.open('logo.jpg')
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("Sascar Tecnologia e Segurança Automotiva S/A")
 
-elif choice == "Inserir_Figura":
+if choice == "Inserir_Figura":
     st.image(image01, width=400, caption='Logo') 
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
