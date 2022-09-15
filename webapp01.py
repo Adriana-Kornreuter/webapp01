@@ -51,7 +51,7 @@ elif choice == "Texto_Markdown":
     """
     )
     
-    elif choice == "Inserir_Figura":
+elif choice == "Inserir_Figura":
     st.image(image01, width=400, caption='Logo') 
 
     
