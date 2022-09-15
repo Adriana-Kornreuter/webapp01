@@ -24,7 +24,7 @@ menu = [#"Texto_Colunas",
         #"Texto_Markdown",
         "Inserir_Empresa"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
-st.sidebar.write("Texto Side Bar")
+st.sidebar.write("Sascar")
     
 #if choice == "Texto_Colunas":       
     #st.subheader("Texto formatado em colunas")
