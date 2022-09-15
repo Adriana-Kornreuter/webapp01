@@ -48,5 +48,5 @@ elif choice == "Texto_Markdown":
     """
     )
 elif choice == "Inserir_Figura":
-    st.image(image01, width=800, caption='Rótulo da Imagem 01') 
+    st.image(image01, width=400, caption='Rótulo da Imagem 01') 
     
