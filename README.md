@@ -1,3 +1,3 @@
-# Conceitos básicos de Streamlit
-## Prof. Massaki Igarashi
-<a href="mailto:prof.massaki@gmail.com">e-mail: prof.massaki@gmail.com</a>
+# Sascar Tecnologia e Segurança Automotiva S/A
+## ADRIANA PEREIRA KORNREUTER - 31908111
+## BRUNO RAMOS ALVES - 32003560
