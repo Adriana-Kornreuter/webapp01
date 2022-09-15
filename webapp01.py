@@ -8,15 +8,15 @@ image01 = Image.open('logo.jpg')
 st.title("Sascar Tecnologia e Segurança Automotiva S/A")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes")
+#st.header("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+#st.subheader("Sub Cabeçalho")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+#st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
 
-st.subheader("------ **Desenvolvido por: Massaki de O. Igarashi** -----")
+#st.subheader("------ **Desenvolvido por: Massaki de O. Igarashi** -----")
 
 menu = ["Texto_Colunas",
         "Texto_Markdown",
