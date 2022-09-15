@@ -53,8 +53,8 @@ elif choice == "Inserir_Figura":
   # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Sobre a Empresa")
   # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-    st.subheader("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes, líder na América Latina e com presença na América do Sul, México e Europa. Auxiliamos 54 mil clientes, com mais de 270 mil veículos conectados, a irem cada vez mais longe através de soluções tecnológicas e contribuímos para uma mobilidade mais segura, eficiente e sustentável.")
- # Use st.write("") para adicionar um texto ao seu Web app
-    st.write("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes, líder na América Latina e com presença na América do Sul, México e Europa. Auxiliamos 54 mil clientes, com mais de 270 mil veículos conectados, a irem cada vez mais longe através de soluções tecnológicas e contribuímos para uma mobilidade mais segura, eficiente e sustentável.")
-  
+    st.subheader("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes, líder na América Latina e com presença na América do Sul, México e Europa. Auxilia 54 mil clientes, com mais de 270 mil veículos conectados, a irem cada vez mais longe através de soluções tecnológicas e contribuímos para uma mobilidade mais segura, eficiente e sustentável.")
+ # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
+    st.header("Diferenciais")
+
     
