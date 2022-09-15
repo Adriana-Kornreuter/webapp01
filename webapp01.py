@@ -3,12 +3,12 @@
 import streamlit as st
 from PIL import Image
 
-image01 = Image.open('desenvolvimento.jpg')
+image01 = Image.open('logo.jpg')
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("MEU 1º WEB APP STREAMLIT")
+st.title(Sascar Tecnologia e Segurança Automotiva S/A")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
