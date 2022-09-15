@@ -58,5 +58,5 @@ elif choice == "Inserir_Figura":
     st.subheader("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes, líder na América Latina e com presença na América do Sul, México e Europa. Auxilia 54 mil clientes, com mais de 270 mil veículos conectados, a irem cada vez mais longe através de soluções tecnológicas e contribuímos para uma mobilidade mais segura, eficiente e sustentável.")
  # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Diferenciais")
-    st.image(image02, width=500)
+    st.image(image02, width=800)
     
