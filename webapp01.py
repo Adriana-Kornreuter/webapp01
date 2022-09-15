@@ -22,9 +22,10 @@ st.title("Sascar Tecnologia e Segurança Automotiva S/A")
 
 menu = [#"Texto_Colunas",
         #"Texto_Markdown",
-        "Empresa_Historia"]
+        "Empresa_Sascar"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
-st.sidebar.write("Sascar")
+st.sidebar.write("ADRIANA PEREIRA KORNREUTER")
+st.sidebar.write("BRUNO RAMOS ALVES")
     
 #if choice == "Texto_Colunas":       
     #st.subheader("Texto formatado em colunas")
@@ -50,7 +51,7 @@ st.sidebar.write("Sascar")
    # """
    # )
     
-if choice == "Empresa_Historia":
+if choice == "Empresa_Sascar":
     st.image(image01, width=500) 
   # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Sobre a Empresa")
