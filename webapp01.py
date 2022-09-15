@@ -44,7 +44,7 @@ st.sidebar.write("Texto Side Bar")
    
     ##### CRONOGRAMA
     #DIA | CH HORÁRIA | CONTEÚDO
-    :---------: | :------: | :-------:
+  #  :---------: | :------: | :-------:
     #Dia 1 de 2 | ?h | ? a ?
    # Dia 2 de 2 | ?h | ? a ?
     """
