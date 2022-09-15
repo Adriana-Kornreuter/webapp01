@@ -22,7 +22,7 @@ st.title("Sascar Tecnologia e Segurança Automotiva S/A")
 
 menu = [#"Texto_Colunas",
         #"Texto_Markdown",
-        "Inserir_Empresa"]
+        "Empresa_Historia"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
 st.sidebar.write("Sascar")
     
@@ -50,7 +50,7 @@ st.sidebar.write("Sascar")
    # """
    # )
     
-if choice == "Inserir_Empresa":
+if choice == "Empresa_Historia":
     st.image(image01, width=500) 
   # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Sobre a Empresa")
