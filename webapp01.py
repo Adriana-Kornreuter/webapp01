@@ -52,4 +52,7 @@ elif choice == "Inserir_Figura":
     st.image(image01, width=400, caption='Logo') 
   # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Empresa do Grupo Michelin especializada em gestão de frotas e com foco total nos clientes")
+ # Use st.write("") para adicionar um texto ao seu Web app
+    st.write(" líder na América Latina e com presença na América do Sul, México e Europa. Auxiliamos 54 mil clientes, com mais de 270 mil veículos conectados, a irem cada vez mais longe através de soluções tecnológicas e contribuímos para uma mobilidade mais segura, eficiente e sustentável.")
+  
     
