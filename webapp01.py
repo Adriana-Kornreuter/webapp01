@@ -26,13 +26,13 @@ menu = ["Texto_Colunas",
 choice = st.sidebar.selectbox("Menu de Opções",menu)
 st.sidebar.write("Texto Side Bar")
     
-if choice == "Texto_Colunas":       
+#if choice == "Texto_Colunas":       
     st.subheader("Texto formatado em colunas")
     st.write("Veja a seguir uma opção de formatação em colunas")    
     cols01 = st.columns(2)    
     cols01[0].write('Texto da Coluna 01')
     cols01[1].write('Texto da Coluna 02')
-elif choice == "Texto_Markdown":
+#elif choice == "Texto_Markdown":
     st.subheader("Texto Markdown")
     st.write("Veja a seguir opção de formatação de texto Markdown")
     st.markdown(
