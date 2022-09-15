@@ -50,7 +50,7 @@ st.sidebar.write("Texto Side Bar")
    # """
    # )
     
-elif choice == "Inserir_Figura":
+if choice == "Inserir_Figura":
     st.image(image01, width=500) 
   # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Sobre a Empresa")
