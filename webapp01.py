@@ -74,3 +74,6 @@ dataD = rD.content
 dfD = pd.read_csv(BytesIO(dataD), index_col=0)
 dfD=dfD.head(10)
     
+        
+dfD.columns=['RT','REPRESENTANTE','PARTNUMBER','IDENTIFICAÇÃO','QUANTIDADE','TIPO', "TRANSPORTE"]
+dfD
