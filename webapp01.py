@@ -60,4 +60,17 @@ if choice == "Empresa_Sascar":
  # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
     st.header("Diferenciais")
     st.image(image02, width=800)
+        
+        
+from io import BytesIO
+import requests
+import pandas as pd
+import altair as alt
+from urllib.error import URLError
+
+#BASE DE DADOS
+rD = requests.get('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_EfUb_lUR1WopgYuYwINtLcY7Yue8QdqkrtU1fzDgCR2CDEInr5_X1JQFE68A0Q/pub?output=csv')
+dataD = rD.content
+dfD = pd.read_csv(BytesIO(dataD), index_col=0)
+dfD=dfD.head(10)
     
